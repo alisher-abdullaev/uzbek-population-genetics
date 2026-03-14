@@ -313,8 +313,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## Contact
 
 **Corresponding Authors:**
-- Alisher Abdullaev: [email]
-- Shahlo Turdikulova: [email]
+- Alisher Abdullaev: [abdullaev_alisher@yahoo.com]
 
 **Issues:** https://github.com/https://github.com/alisher-abdullaev/uzbek-population-genetics.git
 
@@ -323,9 +322,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## Acknowledgments
 
 - 1000 Genomes Project Consortium for reference population data
-- Ministry of Higher Education, Science and Innovation of Uzbekistan for funding
+- Academy of Sciences of Uzbekistan and Ministry of Higher Education, Science and Innovation of Uzbekistan for funding
 - All participants in the included studies
 
 ---
 
-**Last Updated:** March 2025
+**Last Updated:** March 2026
